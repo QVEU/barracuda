@@ -2,9 +2,9 @@
  synonymous barcode designer
 
 ### Usage:
-
+```
 python Barracuda.py <sequence> [<start (1-indexed)> <maxLen>]
-
+```
 
  You can run the code with:
  ```
